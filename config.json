@@ -1,0 +1,17 @@
+{
+  "github_assets": {
+    "soundtrack": [
+      {"name": "Himouto Umaru-chan Opening", "filename": "umaru_op.mp3"},
+      {"name": "Azumanga Daioh Osaka Theme", "filename": "osaka_theme.mp3"}
+    ],
+    "images": {
+      "doto": "images/doto.jpg",
+      "room": "images/room.jpg",
+      "street": "images/street.jpg"
+    },
+    "gifs": [
+      "gifs/mascot.gif",
+      "gifs/mascot1.gif"
+    ]
+  }
+}
