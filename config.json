@@ -1,16 +1,12 @@
 {
   "github_assets": {
     "soundtrack": [
-      {"name": "Osaka - Go Out", "filename": "osaka_go_out.mp3"},
-      {"name": "Osaka - Poi Poi Peace", "filename": "osaka_poi_poi_peace.mp3"},
-      {"name": "Osaka - Raspberry Heaven", "filename": "osaka_raspberry_heaven.mp3"},
-      {"name": "Osaka Theme", "filename": "osaka_theme.mp3"},
-      {"name": "Osaka - Way", "filename": "osaka_Way.mp3"},
       {"name": "Osaka - Fall in Confetti", "filename": "osaka-Fall-in-Confetti.mp3"},
       {"name": "Osaka - Let's Make It", "filename": "osaka-Let-s-Make-It.mp3"},
-      {"name": "Himouto Umaru-chan Opening", "filename": "umaru_op.mp3"},
+      {"name": "Osaka Theme", "filename": "osaka_theme.mp3"},
       {"name": "Umaru Track 18", "filename": "umaru-track-18.mp3"},
-      {"name": "Umaru Track 19", "filename": "umaru-track-19.mp3"}
+      {"name": "Umaru Track 19", "filename": "umaru-track-19.mp3"},
+      {"name": "Himouto Umaru-chan Opening", "filename": "umaru_op.mp3"}
     ],
     "images": {
       "doto": "images/doto.jpg",
