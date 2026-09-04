@@ -41,5 +41,48 @@
     "background": "Dojô Tradicional",
     "default_soundtrack": "Osaka Theme",
     "chibiGlowEffect": "pink-glow"
-  }
+  },
+  "paths": [
+    "C:\\Users"
+  ],
+  "theme": "dark-otaku",
+  "wallpaper": "room",
+  "bgm": "/assets/osaka_theme.mp3",
+  "custom_wallpapers": [],
+  "custom_music": [
+    {
+      "name": "Osaka - Fall in Confetti",
+      "url": "/assets/osaka-Fall-in-Confetti.mp3"
+    },
+    {
+      "name": "Osaka - Let's Make It",
+      "url": "/assets/osaka-Let-s-Make-It.mp3"
+    },
+    {
+      "name": "Osaka Theme",
+      "url": "/assets/osaka_theme.mp3"
+    },
+    {
+      "name": "Umaru Track 18",
+      "url": "/assets/umaru-track-18.mp3"
+    },
+    {
+      "name": "Umaru Track 19",
+      "url": "/assets/umaru-track-19.mp3"
+    },
+    {
+      "name": "Himouto Umaru-chan Opening",
+      "url": "/assets/umaru_op.mp3"
+    }
+  ],
+  "video_playlist": [],
+  "video_interval": 30,
+  "mascot_playlist": [
+    "/assets/mascot.gif",
+    "/assets/mascot1.gif",
+    "/assets/mascot2.gif"
+  ],
+  "mascot_interval": 60,
+  "mascot_zoom": 120,
+  "chibiGlowEffect": "pink-glow"
 }
